@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other file extensions
+*.zip
+*.docx
+*.pdf
